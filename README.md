@@ -4,12 +4,14 @@ Implementation of the paper [Distortion-Free Wide-Angle Portraits on Camera Phon
 
 ## Introduction
 
+![Demo](https://raw.githubusercontent.com/yzhq97/distortion-free-wide-angle.pytorch/main/demo.png "Demo")
+
 Wide-angle portrait mode has been extensively used in taking selﬁes because it enables the camera to include more people and faces in the photo. 
 However, lenses with large FOV tend to create artifacts in the photos taken.
 This is caused by the nature of perspective projection, which projects the surrounding world onto a ﬂat image.
 Motivated by this issue, the authors proposed an automatic algorithm to do post-processing on-site immediately after photos are taken. Their algorithm reverses perspective distortion in wide-angle portraits, so that everyone in the photo looks natural and real.
 
-[Full Project Report]()
+[Full Project Report](https://github.com/yzhq97/distortion-free-wide-angle.pytorch/blob/main/report.pdf)
 
 ## Environment
 
