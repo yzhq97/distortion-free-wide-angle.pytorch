@@ -1,6 +1,6 @@
 # distortion-free-wide-angle.pytorch
 
-Implementation of the paper [Distortion-Free Wide-Angle Portraits on Camera Phones](https://people.csail.mit.edu/yichangshih/wide_angle_portrait/) [1] | Course project for [15-663 Computational Photography](http://graphics.cs.cmu.edu/courses/15-463/).
+Corrects perspective aberrations in wide-angle portraits. Implementation of the paper [Distortion-Free Wide-Angle Portraits on Camera Phones](https://people.csail.mit.edu/yichangshih/wide_angle_portrait/) [1] | Course project for [15-663 Computational Photography](http://graphics.cs.cmu.edu/courses/15-463/).
 
 ## Introduction
 
